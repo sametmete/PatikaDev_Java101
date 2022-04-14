@@ -25,7 +25,6 @@ public class KDVHesaplamaProgrami {
             System.out.println("KDV dahil toplam tutar : "+kdvliToplamTutar);
         }
 
-
     }
 }
 
