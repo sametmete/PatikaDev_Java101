@@ -23,6 +23,7 @@ public class KDVHesaplamaProgrami {
             System.out.println("Girilen Tutar : "+girilenTutar);
             System.out.println("KDV Tutarı : "+kdvTutari);
             System.out.println("KDV dahil toplam tutar : "+kdvliToplamTutar);
+            
         }
 
 
