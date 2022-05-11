@@ -1,5 +1,6 @@
 public class FibonacciSerisi {
     public static void main(String[] args) {
+
         int number=10,a=0,b=1,c;
 
         System.out.print(a);
