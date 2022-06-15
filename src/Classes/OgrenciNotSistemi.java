@@ -18,6 +18,7 @@ public class OgrenciNotSistemi {
         s1.addBulkExamNote(87, 65, 64,80,70,100);
         s1.isPass();
 
+
         Student s2 = new Student("Güdük Necmi", "4098", 2, mat, fizik, kimya);
         s2.addBulkExamNote(100, 50, 40,70,87,98);
         s2.isPass();
